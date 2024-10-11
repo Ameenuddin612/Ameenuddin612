@@ -1,6 +1,6 @@
 ![logo](https://github.com/Ameenuddin612/Ameenuddin612/blob/main/anner.png)
 <h1 align="center">Hi 👋, I'm Ameenuddin</h1>
-<h3 align="center">A passionate Full Stack Developer from Hyderabad.</h3>
+<h3 align="center">A passionate Cloud & Devops Engineer from Hyderabad.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
